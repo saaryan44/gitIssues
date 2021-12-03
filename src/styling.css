@@ -1,0 +1,8 @@
+.grid{display:grid; padding:5%; margin:4%; grid-template-columns:1fr; border:1px solid black;}
+nav{padding:6px;}
+#ofnav{display:flex;list-style-type:none; border-bottom:2px solid lightgray; margin-bottom:2px;background-color:lightgray;font-weight:bold;}
+#ofnav li{margin-left:13px;margin-right:4px; border-bottom:1px solid lightgray; text-align:center ; padding:14px;}
+li#issues{background-color:rgba(250,250,250,0.89);border-bottom:3px solid red;}
+
+
+.grud{display:grid;grid-template-columns:3fr,1fr; border-bottom:2px solid lightgray; grid-row-gap:2px; padding:4px; padding-left:2%;}
