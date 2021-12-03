@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/saaryan44/gitIssues/static/css/main.5b3d484c.chunk.css",
+    "main.js": "/saaryan44/gitIssues/static/js/main.c4041574.chunk.js",
+    "main.js.map": "/saaryan44/gitIssues/static/js/main.c4041574.chunk.js.map",
+    "runtime-main.js": "/saaryan44/gitIssues/static/js/runtime-main.d5ea0fc0.js",
+    "runtime-main.js.map": "/saaryan44/gitIssues/static/js/runtime-main.d5ea0fc0.js.map",
+    "static/js/2.000f799c.chunk.js": "/saaryan44/gitIssues/static/js/2.000f799c.chunk.js",
+    "static/js/2.000f799c.chunk.js.map": "/saaryan44/gitIssues/static/js/2.000f799c.chunk.js.map",
+    "index.html": "/saaryan44/gitIssues/index.html",
+    "static/css/main.5b3d484c.chunk.css.map": "/saaryan44/gitIssues/static/css/main.5b3d484c.chunk.css.map",
+    "static/js/2.000f799c.chunk.js.LICENSE.txt": "/saaryan44/gitIssues/static/js/2.000f799c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5ea0fc0.js",
+    "static/js/2.000f799c.chunk.js",
+    "static/css/main.5b3d484c.chunk.css",
+    "static/js/main.c4041574.chunk.js"
+  ]
+}
